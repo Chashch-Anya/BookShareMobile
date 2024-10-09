@@ -9,14 +9,18 @@
 <li>Firebase</li>
 
 <h3>Карта экранов:</h3>
+
 ![image](https://github.com/user-attachments/assets/5c067ac8-ac21-47b6-b841-523f7a491f34)
 
 <li>Авторизация/Регистрация</li>
+
 ![image](https://github.com/user-attachments/assets/ee45b89c-75ad-4f53-b57e-2437d6cfba62)
 
 <li>Список книг</li>
+
 ![image](https://github.com/user-attachments/assets/a513f08c-ba75-444a-a5bf-82dfa740c197)
 
 <li>Описание кнги</li>
+
 ![image](https://github.com/user-attachments/assets/1f93121b-da04-44f3-ba62-7f2339793382)
 
